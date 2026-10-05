@@ -1,0 +1,2 @@
+Enter the name of the input file (ie input.txt): Enter the name of the output file (ie output.txt): Grade processing completed
+You can retrieve the output file at, out.txt
